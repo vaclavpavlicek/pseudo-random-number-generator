@@ -9,7 +9,7 @@ describe('pseudo-random', () => {
     expect(generatePseudoRandom(10, 100, 'aasdf3')).toBe(62);
   });
 
-  test('generates 62', () => {
+  test('generates 86', () => {
     expect(generatePseudoRandom(10, 100, 'aasgfdsgf sfdg')).toBe(86);
   });
 
