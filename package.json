@@ -1,0 +1,20 @@
+{
+  "name": "code-retreat-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vaclav Pavlicek",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.13.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^23.3.9"
+  }
+}
